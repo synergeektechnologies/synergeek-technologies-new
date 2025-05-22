@@ -9,21 +9,21 @@ export default function Testimonials() {
     {
       name: "Garuda Krishna M",
       position: "CEO, Vital Flare Media",
-      image: "/src/assets/garuda.jpg?height=100&width=100",
+      image: "/garuda.jpg?height=100&width=100",
       content:
         "Synergeek Technologies delivered a modern, dynamic website that perfectly represents our digital marketing agency and its services and they help us to create the excellent online presence.",
     },
     {
       name: "Fawaz",
       position: "CEO, VIP Polymers",
-      image: "/src/assets/vip.jpg?height=100&width=100",
+      image: "/vip.jpg?height=100&width=100",
       content:
         "Synergeek Technologies designed a visually striking brochure that effectively highlighted our polymer products, reflecting our brand perfectly. The team was professional and attentive to our needs.",
     },
     {
       name: "Tejasswin S",
       position: "CEO, Horizon Digital Solutions",
-      image: "/src/assets/teju.jpg?height=100&width=100",
+      image: "/teju.jpg?height=100&width=100",
       content:
         "A modern and visually appealing website was designed, showcasing our portfolio in a way that highlights our technical expertise and innovative projects.",
     },

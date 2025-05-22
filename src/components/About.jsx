@@ -45,7 +45,7 @@ export default function About() {
               <div className="absolute -inset-4 rounded-xl bg-gradient-to-r from-purple-500/20 to-blue-500/20 blur-xl" />
               <div className="relative aspect-square rounded-xl overflow-hidden border border-gray-800">
                 <img
-                  src="/src/assets/Tab_Logo.png"
+                  src="/Tab_Logo.png"
                   alt="Synergeek Team"
                   className="object-cover w-full h-full"
                 />
